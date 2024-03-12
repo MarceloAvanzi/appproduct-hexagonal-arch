@@ -31,7 +31,7 @@ type ProductReader interface {
 	Get(id string) (ProductInterface, error)
 }
 
-type ProductWriter interfacce {
+type ProductWriter interface {
 	Save(product ProductInterface) (ProductInterface, error)
 }
 
