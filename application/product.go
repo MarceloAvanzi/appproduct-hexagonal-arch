@@ -11,7 +11,7 @@ func init() {
 }
 
 type ProductInterface interface {
-	isValid() (bool, error)
+	IsValid() (bool, error)
 	Enable() error
 	Disable() error
 	GetID() string
