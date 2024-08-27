@@ -1,7 +1,5 @@
  # appproduct-hexagonal-arch         
-      d
-  
-     
+
  
   
  
